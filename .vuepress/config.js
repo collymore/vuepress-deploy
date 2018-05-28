@@ -22,7 +22,7 @@ module.exports = {
     serviceWorker: true,
     themeConfig: {
         docsDir: 'docs',
-        repo: 'capriosa/vuepress-deploy',
+        repo: 'collymore/vuepress-deploy',
 
         nav: [{
                 text: 'Start',
