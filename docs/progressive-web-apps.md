@@ -1,6 +1,8 @@
 ---
 title: Progressive Web Apps
 ---
+![why is this broken](/.vuepress/dist/vuepress-deploy.jpg)
+
 # Progressive Web Apps
 
 ## Anforderungen
